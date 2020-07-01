@@ -6,6 +6,10 @@ description: A wonderful site
 twitter_username: jekyllrb
 github_username:  jekyll
 
+header_pages:
+ - about.md
+ - reference.md
+
 # Build settings
 markdown: kramdown
 theme: minima
