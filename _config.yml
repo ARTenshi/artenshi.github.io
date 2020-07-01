@@ -1,7 +1,7 @@
 # basic options
 title: Your awesome title
 author: GitHub User
-email: your-email@domain.com
+#email: your-email@domain.com
 
 description: > # this means to ignore newlines until "next_option:"
   Write an awesome description for your new site here. You can edit this
