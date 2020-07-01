@@ -1,9 +1,9 @@
 ---
 layout: page
-title: About
+title: Reference
 ---
 
-This is an about page about this awesome site.
+This is an reference page about this awesome site.
 Hope you love it!
 
 Reasons:
