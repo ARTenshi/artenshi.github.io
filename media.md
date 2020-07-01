@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Reference
+title: Media
 ---
 
-This is a reference page about this awesome site.
+This is a `Media` page about this awesome site.
 Hope you love it!
 
 Reasons:

@@ -13,7 +13,9 @@ github_username:  jekyll
 
 header_pages:
  - about.md
- - reference.md
+ - research.md
+ - teaching.md
+ - media.md
 
 # Build settings
 markdown: kramdown
