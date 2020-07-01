@@ -3,7 +3,7 @@ layout: page
 title: Reference
 ---
 
-This is an reference page about this awesome site.
+This is a reference page about this awesome site.
 Hope you love it!
 
 Reasons:
