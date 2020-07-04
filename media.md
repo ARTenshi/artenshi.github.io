@@ -3,7 +3,11 @@ layout: page
 title: Media
 ---
 
-## Media
+## Press
+
+* TODO
+
+## Video
 
 * [Robots de Servicio en la UNAM](https://bit.ly/3eX6evO) [Video] - Creadores Universitarios
 
