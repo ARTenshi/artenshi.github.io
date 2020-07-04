@@ -14,7 +14,7 @@ title: Teaching
 * [Sobre el por qué aprender idiomas es importante...](https://bit.ly/2VMhaVz) - Chapingo Autonomous University
 
 
-## Conferences
+## Invited Lectures
 
 - "POCO – POint cloud COmpression techniques for visual odometry and SLAM", University of Castilla-La Mancha, Spain, November 2017.
 
@@ -29,7 +29,7 @@ title: Teaching
 - "Computer Vision Techniques for mobile robot control", Higher Technological Institute of Huauchinango, Puebla, Mexico, July 2011.
 
 
-## Additional experience
+## Additional Experience
 
 - [Open Platform Final](https://www.youtube.com/watch?v=gtMvxs3KXCI) -  RoboCup@Home Education Online Challenge 2020
 

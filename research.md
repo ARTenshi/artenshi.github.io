@@ -34,7 +34,7 @@ title: Research
 - Development of an object recognition and location system using Microsoft Kinect(TM) sensor (2011). Proceedings of the 15th RoboCup International Symposium, Istanbul
 
 
-## Research
+## Videos
 
 - [eR@sers紹介VTR](https://bit.ly/2C8R1sU)
 
