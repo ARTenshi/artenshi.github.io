@@ -1,15 +1,14 @@
 # basic options
-title: Your awesome title
-author: GitHub User
+title: Luis Contreras Homepage
+author: Luis Contreras
 #email: your-email@domain.com
 
 description: > # this means to ignore newlines until "next_option:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Luis Contreras homepage with his latest research, lectures,
+  teaching resources, and media articles.
 
-twitter_username: jekyllrb
-github_username:  jekyll
+twitter_username: TenshiTeacher
+github_username:  ARTenshi
 
 header_pages:
  - about.md

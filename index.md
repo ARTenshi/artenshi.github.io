@@ -8,6 +8,11 @@
 layout: home
 ---
 
+<div> 
+    <img src="{{ '/images/logounam_es.png' | absolute_url }}" alt="Bio-Robotics UNAM" style="width:45%;" >
+    <img src="{{ '/images/aibot-logo.png' | absolute_url }}" alt="AIBot Research Center" style="width:45%;" >
+</div>
+
 # Welcome 
 
 Thank you for visiting my Homepage! I will try to summarise my resume in the following sections while presenting some interesting posts in the related sections.
