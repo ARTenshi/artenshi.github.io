@@ -9,8 +9,8 @@ layout: home
 ---
 
 <div> 
-    <img src="{{ '/images/logounam_es.png' | absolute_url }}" alt="Bio-Robotics UNAM" style="width:45%;" >
-    <img src="{{ '/images/aibot-logo.png' | absolute_url }}" alt="AIBot Research Center" style="width:45%;" >
+    <img src="{{ '/images/logounam_es.png' | absolute_url }}" alt="Bio-Robotics UNAM" style="width:25%;" >
+    <img src="{{ '/images/aibot-logo.png' | absolute_url }}" alt="AIBot Research Center" style="width:65%;" >
 </div>
 
 # Welcome 
