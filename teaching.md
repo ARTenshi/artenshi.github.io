@@ -16,6 +16,8 @@ title: Teaching
 
 ## Invited Lectures
 
+- "An Introduction to Deep Learning", Medialab Prado, Madrid, Spain, September 2018.
+
 - "POCO – POint cloud COmpression techniques for visual odometry and SLAM", University of Castilla-La Mancha, Spain, November 2017.
 
 - "POCO – POint cloud COmpression techniques for visual odometry and SLAM", Universidad Autónoma Chapingo (UACh), Mexico, November 2017.
