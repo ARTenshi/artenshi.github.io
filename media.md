@@ -3,13 +3,8 @@ layout: page
 title: Media
 ---
 
-This is a `Media` page about this awesome site.
-Hope you love it!
+## Media
 
-Reasons:
-- its great.
-- its a test.
+* [Robots de Servicio en la UNAM](https://bit.ly/3eX6evO) [Video] - Creadores Universitarios
 
-## Other thoughts
-
-This is great.
+* [Universitario exitoso en Bristol, Inglaterra](https://bit.ly/2ZE8AJJ) [Video] - UNAM Global
