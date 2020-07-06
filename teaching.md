@@ -11,7 +11,7 @@ title: Teaching
 
 * [World Representation Through Artificial Neural Networks](https://www.youtube.com/watch?v=d-Wwbdve730) [Video] - RoboCup@Home Education
 
-* [Sobre el por qué aprender idiomas es importante...](https://bit.ly/2VMhaVz) [Video] - Chapingo Autonomous University
+* [Sobre el por qué aprender idiomas es importante](https://bit.ly/2VMhaVz) [Video] - Chapingo Autonomous University
 
 
 ## Invited Lectures
@@ -20,13 +20,13 @@ title: Teaching
 
 - "POCO – POint cloud COmpression techniques for visual odometry and SLAM", University of Castilla-La Mancha, Spain, November 2017.
 
-- "POCO – POint cloud COmpression techniques for visual odometry and SLAM", Universidad Autónoma Chapingo (UACh), Mexico, November 2017.
+- "POCO – POint cloud COmpression techniques for visual odometry and SLAM", Chapingo Autonomous University, Mexico, November 2017.
 
-- "Probabilistic Robotics", FI-UNAM, April 2016
+- "Probabilistic Robotics", FI - National Autonomous University of Mexico, April 2016
 
-- "Probabilistic Robotics", Universidad Autónoma Chapingo (UACh), Mexico, April 2016
+- "Probabilistic Robotics", Chapingo Autonomous University, Mexico, April 2016
 
-- "Visual Odometry and Point Cloud Compression Techniques", IIMAS, UNAM, April 2015
+- "Visual Odometry and Point Cloud Compression Techniques", IIMAS, National Autonomous University of Mexico, April 2015
 
 - "Computer Vision Techniques for mobile robot control", Higher Technological Institute of Huauchinango, Puebla, Mexico, July 2011.
 

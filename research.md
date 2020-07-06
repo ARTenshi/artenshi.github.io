@@ -36,16 +36,16 @@ title: Research
 
 ## Videos
 
-- [eR@sers紹介VTR](https://bit.ly/2C8R1sU)
+- [RoboCup@home DSPL 2020 - Team Tama-Goya Qualification Video](https://bit.ly/2C69zKm)
 
-- [Team: Tama-Goya Qualification video robocup@home DSPL 2020](https://bit.ly/2C69zKm)
+- [RoboCup@home DSPL 2019 - Team eR@sers Qualification Video](https://bit.ly/3eY9N4R)
 
-- [Qualification Video for RoboCup@home DSPL 2019 eR@sers](https://bit.ly/3eY9N4R)
+- [RoboCup@Home DSPL 2018 - Team eR@sers Qualification Video](https://bit.ly/3irzM6Z)
 
-- [Robocup@Home2018 qualification video](https://bit.ly/3irzM6Z)
-
-- [Clean-Up task by Team eR@sers - Extended Versions](https://bit.ly/2ZwunD0)
+- [RoboCup@Home Education 2020 - Team eR@sers Qualification Video](https://bit.ly/2YZZQ1i)
 
 - [Robot-Object Interaction with Multimodal Feedback](https://bit.ly/2VKfoUK)
 
+- [Clean-Up Task by Team eR@sers](https://bit.ly/2ZwunD0)
 
+- [Team eR@sers Description Video](https://bit.ly/2C8R1sU)
