@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Map representations for mobile robot localization"
+title: "Representaciones alternativas de mapas para localización de robots móviles"
 categories: robotics
 author:
 - Luis Contreras
