@@ -5,13 +5,17 @@ title: Research
 
 ## Publications
 
-- Feature detection using Hidden Markov Models for 3D-visual recognition (2019). The 19th IEEE International Conference on Autonomous Robot Systems and Competitions
-
-- Robot-object interaction strategies for object recognition (2019). The 37-th Annual Conference of the Robotics Society of Japan
+### Journal
 
 - Semantic reasoning in service robots using expert systems (2019). Robotics and Autonomous Systems. Vol. 114, pp. 77-92
 
 - A motion planning system for a domestic service robot (2018). SPIIRAS Proceedings. Issue 60. pp. 5-38.
+
+### Conference
+
+- Feature detection using Hidden Markov Models for 3D-visual recognition (2019). The 19th IEEE International Conference on Autonomous Robot Systems and Competitions
+
+- Robot-object interaction strategies for object recognition (2019). The 37-th Annual Conference of the Robotics Society of Japan
 
 - Map Representation Using Hidden Markov Models For Mobile Robot Localization (2018). 13th International Scientific-Technical Conference on Electromechanics and Robotics
 
