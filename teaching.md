@@ -5,13 +5,13 @@ title: Teaching
 
 ## Online
 
-* [An introduction to Robot Vision](An introduction to Robot Vision) [Repository] - eR@sers, Tamagawa University
+* [An introduction to Robot Vision](An introduction to Robot Vision) [Repository] - eR@sers, Tamagawa University, 2020
 
-* [Robot Localisation: An Introduction](https://www.youtube.com/watch?v=tN8hYm4ip2s) [Video] - RoboCup@Home Education
+* [Robot Localisation: An Introduction](https://www.youtube.com/watch?v=tN8hYm4ip2s) [Video] - RoboCup@Home Education, 2020
 
-* [World Representation Through Artificial Neural Networks](https://www.youtube.com/watch?v=d-Wwbdve730) [Video] - RoboCup@Home Education
+* [World Representation Through Artificial Neural Networks](https://www.youtube.com/watch?v=d-Wwbdve730) [Video] - RoboCup@Home Education, 2020
 
-* [Sobre el por qué aprender idiomas es importante](https://bit.ly/2VMhaVz) [Video] - Chapingo Autonomous University
+* [Sobre el por qué aprender idiomas es importante](https://bit.ly/2VMhaVz) [Video] - Chapingo Autonomous University, 2019
 
 
 ## Invited Lectures
