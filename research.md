@@ -37,6 +37,13 @@ title: Research
 
 - Development of an object recognition and location system using Microsoft Kinect(TM) sensor (2011). Proceedings of the 15th RoboCup International Symposium, Istanbul
 
+### Books
+
+Map compression techniques for relocalisation in visual mapping (2017) - Department of Computer Science - University of Bristol. PhD Thesis
+
+Object detection and recognition for mobile robot applications using computer vision techniques (2011) - Faculty of Engineering - National Autonomous University of Mexico. M.Eng Thesis
+
+Automation of a Greenhouse using Electronic Commercial Components [COTS] (2007) - Faculty of Engineering - National Autonomous University of Mexico. B.Eng Thesis
 
 ## Videos
 

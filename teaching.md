@@ -5,7 +5,7 @@ title: Teaching
 
 ## Online
 
-* [An introduction to Robot Vision](An introduction to Robot Vision) [Repository] - eR@sers, Tamagawa University, 2020
+* [An introduction to Robot Vision](https://gitlab.com/trcp/introvision) [Repository] - eR@sers, Tamagawa University, 2020
 
 * [Robot Localisation: An Introduction](https://www.youtube.com/watch?v=tN8hYm4ip2s) [Video] - RoboCup@Home Education, 2020
 
