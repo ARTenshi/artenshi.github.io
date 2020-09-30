@@ -13,6 +13,8 @@ title: Research
 
 ### Conference
 
+- Multimodal human intention-driven robot motion control in collaborative tasks (2020). The 38-th Annual Conference of the Robotics Society of Japan
+
 - Feature detection using Hidden Markov Models for 3D-visual recognition (2019). The 19th IEEE International Conference on Autonomous Robot Systems and Competitions
 
 - Robot-object interaction strategies for object recognition (2019). The 37-th Annual Conference of the Robotics Society of Japan
