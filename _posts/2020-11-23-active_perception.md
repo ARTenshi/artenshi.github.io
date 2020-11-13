@@ -22,6 +22,9 @@ We aimed to introduce two key concepts to continue the discussion in the Manipul
 We assume that CNN is the state of the art for task-specific object recognition problems and therefore we work towards improving their performance when using service robots by adding active reasoning before recognition; this includes testing several points of view, by moving the robot's base and or head and by first grasping the object and then observe it at a fixed distance in the robot's hand. The reason for that is that lately, it seems that robots are being seen as external agents that move around an environment and not as intelligent agents that can actually interact in it and even alter it to it's best convenience (sometimes in a way a human can't do) when performing (and if allowed by) a given task, and we intend to promote research towards it.
 
 [1] A Motion-Planning System for a Domestic Service Robot (2018). SPIIRAS Proceedings 60, 5–38
+
 [2] Multimodal feedback for active robot-object interaction (2018). IEEE/RSJ IROS Workshops
+
 [3] Visual feedback for active robot-object interaction (2018). The 36th Annual Conference of the Robotics Society of Japan
+
 [4] Robot-object interaction strategies for object recognition (2019). The 37th Annual Conference of the Robotics Society of Japan
