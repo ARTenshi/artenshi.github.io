@@ -13,6 +13,8 @@ title: Research
 
 ### Conference
 
+- Generating Reactive Robots’ Behaviors Using Genetic Algorithms (2020). The International Conference on Agents and Artificial Intelligence
+
 - Multimodal human intention-driven robot motion control in collaborative tasks (2020). The 38-th Annual Conference of the Robotics Society of Japan
 
 - Feature detection using Hidden Markov Models for 3D-visual recognition (2019). The 19th IEEE International Conference on Autonomous Robot Systems and Competitions
