@@ -13,7 +13,7 @@ title: Research
 
 ### Conference
 
-- Generating Reactive Robots’ Behaviors Using Genetic Algorithms (2020). The International Conference on Agents and Artificial Intelligence
+- Generating Reactive Robots’ Behaviors Using Genetic Algorithms (2021). The International Conference on Agents and Artificial Intelligence
 
 - Multimodal human intention-driven robot motion control in collaborative tasks (2020). The 38-th Annual Conference of the Robotics Society of Japan
 
