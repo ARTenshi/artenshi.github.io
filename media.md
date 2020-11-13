@@ -13,7 +13,7 @@ title: Media
 
 - [先端知能・ロボット研究センター（AIBot研究センター）](https://bit.ly/2C7FHxu) [2019] - 玉川大学
 
-- [Advanced Intelligence & Robotics Research Center (AIBot)] (https://bit.ly/2Z1O1b9) [2019] - Tamagawa University
+- [Advanced Intelligence & Robotics Research Center (AIBot)](https://bit.ly/2Z1O1b9) [2019] - Tamagawa University
 
 - [Perseverancia y RoboCup, la clave para llegar a Japón](https://bit.ly/31ZGDir) [2019] - Universidad de Estudios Internacionales de Kanda, Japón
 
