@@ -11,6 +11,10 @@ title: Media
 
 - [ドレクセル大学生と玉川大学生で共同授業を開催。高齢化社会における課題についてまとめ、発表を行いました](https://bit.ly/3iB7dE2) [2019] - 玉川大学
 
+- [先端知能・ロボット研究センター（AIBot研究センター）](https://bit.ly/2C7FHxu) [2019] - 玉川大学
+
+- [Advanced Intelligence & Robotics Research Center (AIBot)] (https://bit.ly/2Z1O1b9) [2019] - Tamagawa University
+
 - [Perseverancia y RoboCup, la clave para llegar a Japón](https://bit.ly/31ZGDir) [2019] - Universidad de Estudios Internacionales de Kanda, Japón
 
 - [El científico mexicano que construirá robots en Japón](https://bit.ly/3e45Jir) [2018] - Ciencia MX
@@ -30,10 +34,6 @@ title: Media
 - [Mapa inteligente que optimizará navegación robótica](https://bit.ly/3gAjZkJ) [2015] - Ciencia MX
 
 - [Justina representará a México en Robocup 2013, en Holanda](https://bit.ly/2O0zxBM) [2013] - La Jornada
-
-- [Advanced Intelligence & Robotics Research Center (AIBot)](https://bit.ly/2Z1O1b9) - Tamagawa University
-
-- [先端知能・ロボット研究センター（AIBot研究センター）](https://bit.ly/2C7FHxu) - 玉川大学
 
 
 ## Video
