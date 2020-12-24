@@ -5,6 +5,8 @@ title: Media
 
 ## Press
 
+- [玉川大学eR@sersがロボカップジャパンオープン2020　＠ホーム部門　エデュケーションリーグで優勝！](https://www.tamagawa.jp/university/news/detail_18262.html) [2020] - 玉川大学
+
 - [大学工学部・岡田浩之研究室「eR@sers（イレイサーズ）」](https://bit.ly/38s1ITM) [2019] - 玉川大学
 
 - [玉川学園を探検・調査しよう１](https://bit.ly/38vh2ih) [2019] - 玉川大学
