@@ -5,6 +5,8 @@ title: Media
 
 ## Press
 
+- [「STREAM Hall 2019」の「ロボティクスラボ」オープンでますます加速する玉川大学工学部のロボット研究工学部情報通信工学科・岡田浩之研究室を訪ねて](http://bit.ly/39VpSbI) [2021] - 玉川大学
+
 - [玉川大学eR@sersがロボカップジャパンオープン2020　＠ホーム部門　エデュケーションリーグで優勝！](http://bit.ly/2M4lhdL) [2020] - 玉川大学
 
 - [大学工学部・岡田浩之研究室「eR@sers（イレイサーズ）」](https://bit.ly/38s1ITM) [2019] - 玉川大学
@@ -39,6 +41,8 @@ title: Media
 
 
 ## Video
+
+- [玉川大学　研究所AIBot](https://bit.ly/3pVeIcq) [Video, 2021] - 玉川大学
 
 - [玉川大学　キャンパス紹介](https://bit.ly/3e44cbW) [Video, 2019] - 玉川大学
 

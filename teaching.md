@@ -5,11 +5,11 @@ title: Teaching
 
 ## Online
 
-* [An introduction to Robot Vision](https://gitlab.com/trcp/introvision) [Repository] - eR@sers, Tamagawa University, 2020
+* [An introduction to Robot Vision](http://bit.ly/39Tzm7i) [Repository] - eR@sers, Tamagawa University, 2020
 
-* [Robot Localisation: An Introduction](https://www.youtube.com/watch?v=tN8hYm4ip2s) [Video] - RoboCup@Home Education, 2020
+* [Robot Localisation: An Introduction](https://bit.ly/374Hn7F) [Video] - RoboCup@Home Education, 2020
 
-* [World Representation Through Artificial Neural Networks](https://www.youtube.com/watch?v=d-Wwbdve730) [Video] - RoboCup@Home Education, 2020
+* [World Representation Through Artificial Neural Networks](https://bit.ly/3rk3ZbQ) [Video] - RoboCup@Home Education, 2020
 
 * [Sobre el por qué aprender idiomas es importante](https://bit.ly/2VMhaVz) [Video] - Chapingo Autonomous University, 2019
 
@@ -33,6 +33,6 @@ title: Teaching
 
 ## Additional Experience
 
-- Jury at [Open Platform Final](https://www.youtube.com/watch?v=gtMvxs3KXCI) [Video] -  RoboCup@Home Education Online Challenge 2020
+- Jury at [Open Platform Final](https://bit.ly/36MJMDQ) [Video] -  RoboCup@Home Education Online Challenge 2020
 
 - Teaching Assistant for the "Robotics" unit at the Faculty of Engineering, University of Bristol. Oct 2015 – Apr 2016
