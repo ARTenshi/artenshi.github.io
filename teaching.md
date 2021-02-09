@@ -16,11 +16,15 @@ title: Teaching
 
 ## Invited Lectures
 
-- "An Introduction to Deep Learning", Medialab Prado, Madrid, Spain, September 2018.
+- "Representaciones compactas de mapas y su aplicación en relocalización visual", Superior School of Computer Sciences, National Polytechnic Institute, Mexico, December 2020
 
-- "POCO – POint cloud COmpression techniques for visual odometry and SLAM", University of Castilla-La Mancha, Spain, November 2017.
+- "Una introducción a las redes neuronales y su aplicación a representaciones compactas", National Technological Institute of Mexico, November 2020
 
-- "POCO – POint cloud COmpression techniques for visual odometry and SLAM", Chapingo Autonomous University, Mexico, November 2017.
+- "An Introduction to Deep Learning", Medialab Prado, Madrid, Spain, September 2018
+
+- "POCO – POint cloud COmpression techniques for visual odometry and SLAM", University of Castilla-La Mancha, Spain, November 2017
+
+- "POCO – POint cloud COmpression techniques for visual odometry and SLAM", Chapingo Autonomous University, Mexico, November 2017
 
 - "Probabilistic Robotics", FI - National Autonomous University of Mexico, April 2016
 
@@ -28,7 +32,7 @@ title: Teaching
 
 - "Visual Odometry and Point Cloud Compression Techniques", IIMAS, National Autonomous University of Mexico, April 2015
 
-- "Computer Vision Techniques for mobile robot control", Higher Technological Institute of Huauchinango, Puebla, Mexico, July 2011.
+- "Computer Vision Techniques for mobile robot control", Higher Technological Institute of Huauchinango, Puebla, Mexico, July 2011
 
 
 ## Additional Experience
