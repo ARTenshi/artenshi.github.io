@@ -18,7 +18,7 @@ title: Teaching
 
 - "Representaciones compactas de mapas y su aplicación en relocalización visual", Superior School of Computer Sciences, National Polytechnic Institute, Mexico, December 2020
 
-- "Una introducción a las redes neuronales y su aplicación a representaciones compactas", National Technological Institute of Mexico, November 2020
+- "Una introducción a las redes neuronales y su aplicación a representaciones compactas", National Technological Institute of Mexico, Mexico, November 2020
 
 - "An Introduction to Deep Learning", Medialab Prado, Madrid, Spain, September 2018
 
