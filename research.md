@@ -49,15 +49,62 @@ title: Research
 
 - Automation of a Greenhouse using Electronic Commercial Components [COTS] (2007) - Faculty of Engineering - National Autonomous University of Mexico. B.Eng Thesis
 
+### Robot Competitions
+
+- RoboCup 2021 Worldwide [atHome League Organiser]
+- RoboCup 2019 Sydney
+- RoboCup 2018 Montreal
+- RoboCup 2013 Eindhoven
+- RoboCup 2012 Mexico City
+- RoboCup 2011 Istanbul
+
+- RoboCup Asia-Pacific 2021
+
+- RoboCup Japan Open 2020
+- RoboCup Japan Open 2019
+- RoboCup Japan Open 2018
+
+- Mexican Tournament of Robotics 2021 [atHome League Organiser]
+- Mexican Tournament of Robotics 2018
+- Mexican Tournament of Robotics 2013
+- Mexican Tournament of Robotics 2012
+- Mexican Tournament of Robotics 2011
+
+- World Robot Summit 2020
+- World Robot Summit 2018
+
+- Field Robot Event 2018
+- Field Robot Event 2017
+
 ## Videos
 
-- [RoboCup@home DSPL 2020 - Team Tama-Goya Qualification Video](https://bit.ly/2C69zKm)
+### RoboCup atHome Full Competitions (as Organiser)
+
+- [RoboCup at Home 2021](https://bit.ly/36fy18e)
+
+- [Mexican Tournament of Robotics 2021](https://bit.ly/3dJso6f)
+
+### Qualification Videos
+
+- [RoboCup@Home Education 2021 - Team eR@sers Qualification Video](https://bit.ly/2TBX1n9)
+
+- [RoboCup@home DSPL 2020 - Team TamaGoya Qualification Video](https://bit.ly/2C69zKm)
 
 - [RoboCup@home DSPL 2019 - Team eR@sers Qualification Video](https://bit.ly/3eY9N4R)
 
 - [RoboCup@Home DSPL 2018 - Team eR@sers Qualification Video](https://bit.ly/3irzM6Z)
 
 - [RoboCup@Home Education 2020 - Team eR@sers Qualification Video](https://bit.ly/2YZZQ1i)
+
+### Others
+
+- [TamaGoya - Poster, RoboCup 2021](https://bit.ly/3hfw7KU)
+
+- [eR@sers DSPL - Technical Challenge, RoboCup Japan Open 2020](https://bit.ly/3yobLVD)
+
+- [eR@sers Education - Poster, RoboCup Japan Open 2020](https://bit.ly/2TEPsfv)
+
+- [eR@sers Education - Technical Challenge, RoboCup Japan Open 2020](https://bit.ly/3wcdsE8)
 
 - [Robot-Object Interaction with Multimodal Feedback](https://bit.ly/2VKfoUK)
 

@@ -16,6 +16,8 @@ title: Teaching
 
 ## Invited Lectures
 
+- "Robotics in Japan: A Review", University Program of Studies on Asia and Africa, UNAM, Mexico, May 2021
+
 - "Representaciones compactas de mapas y su aplicación en relocalización visual", Superior School of Computer Sciences, National Polytechnic Institute, Mexico, December 2020
 
 - "Una introducción a las redes neuronales y su aplicación a representaciones compactas", National Technological Institute of Mexico, Mexico, November 2020
