@@ -82,7 +82,7 @@ title: Research
 
 - [RoboCup at Home 2021](https://bit.ly/36fy18e)
 
-- [Mexican Tournament of Robotics 2021](https://bit.ly/3dJso6f)
+- [Mexican Tournament of Robotics 2021](https://bit.ly/3qQfvwI)
 
 ### Qualification Videos
 
