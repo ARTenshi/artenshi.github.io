@@ -21,7 +21,7 @@ We use the HSR, a standard service robot platform able to perform domestic tasks
 
 Finally, the projected forces are normalized and then, they are scaled by a constant  that represents the maximum velocity that a joint can reach.
 
-To estimate the human motion-direction we take a time window with consecutive position readings and apply a linear regression to fit a line on those points; we consider this line as the direction of the unit vector representing the human motion.
+To estimate the human motion-direction we take a time window with consecutive human-position readings and apply a linear regression to fit a line on those points; we consider this line as the direction of the unit vector representing the human motion.
 
 In our approach, human intention corresponds to a number of states mutually exclusive -- with Boolean state vector I and the states stop, motion_x, rotation_y, and motion_z -- where only one state is considered at a time. The resulting force that translates to a motion intention depends on the input force direction and the time that the force has being applied. To avoid intermittent state-transitions, we apply a low pass filter to each state where the probability of transition is directly proportional to a charge and discharge time model.
 
