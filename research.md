@@ -13,7 +13,7 @@ title: Research
 
 ### Conference
 
--“sDSPL - Towards a benchmark for general-purpose task evaluation in domestic service robots (2021). The 39-th Annual Conference of the Robotics Society of Japan
+- sDSPL - Towards a benchmark for general-purpose task evaluation in domestic service robots (2021). The 39-th Annual Conference of the Robotics Society of Japan
 
 - Learning tools for mobile robot localization using visual landmarks and the extended Kalman filter (2021). In Proceedings of the 24th RoboCup International Symposium
 
