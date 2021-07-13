@@ -13,6 +13,10 @@ title: Research
 
 ### Conference
 
+-“sDSPL - Towards a benchmark for general-purpose task evaluation in domestic service robots (2021). The 39-th Annual Conference of the Robotics Society of Japan
+
+- Learning tools for mobile robot localization using visual landmarks and the extended Kalman filter (2021). In Proceedings of the 24th RoboCup International Symposium
+
 - Generating Reactive Robots’ Behaviors Using Genetic Algorithms (2021). The International Conference on Agents and Artificial Intelligence
 
 - Multimodal human intention-driven robot motion control in collaborative tasks (2020). The 38-th Annual Conference of the Robotics Society of Japan
@@ -73,7 +77,6 @@ title: Research
 - World Robot Summit 2020
 - World Robot Summit 2018
 
-- Field Robot Event 2018
 - Field Robot Event 2017
 
 ## Videos
