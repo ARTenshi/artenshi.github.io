@@ -15,6 +15,12 @@ title: Research
 
 - sDSPL - Towards a benchmark for general-purpose task evaluation in domestic service robots (2021). The 39-th Annual Conference of the Robotics Society of Japan
 
+- 公平性と民主性を両立させた RoboCup 用競技シミュレーションシステムの開発 (2021). The 39-th Annual Conference of the Robotics Society of Japan
+
+- ホームサービスロボットによる物体認識のためのアクティブセンシング戦略 (2021). The 39-th Annual Conference of the Robotics Society of Japan
+
+- パーソナルモビリティを活用した人とロボットの協調 (2021). The 39-th Annual Conference of the Robotics Society of Japan
+
 - Learning tools for mobile robot localization using visual landmarks and the extended Kalman filter (2021). In Proceedings of the 24th RoboCup International Symposium
 
 - Generating Reactive Robots’ Behaviors Using Genetic Algorithms (2021). The International Conference on Agents and Artificial Intelligence
