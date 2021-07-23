@@ -95,13 +95,13 @@ title: Research
 
 ### Qualification Videos
 
-- [RoboCup@Home Education 2021 - Team eR@sers Qualification Video](https://bit.ly/2TBX1n9)
-
 - [RoboCup@home DSPL 2020 - Team TamaGoya Qualification Video](https://bit.ly/2C69zKm)
 
 - [RoboCup@home DSPL 2019 - Team eR@sers Qualification Video](https://bit.ly/3eY9N4R)
 
 - [RoboCup@Home DSPL 2018 - Team eR@sers Qualification Video](https://bit.ly/3irzM6Z)
+
+- [RoboCup@Home Education 2021 - Team eR@sers Qualification Video](https://bit.ly/2TBX1n9)
 
 - [RoboCup@Home Education 2020 - Team eR@sers Qualification Video](https://bit.ly/2YZZQ1i)
 
