@@ -72,10 +72,12 @@ title: Research
 
 - RoboCup Asia-Pacific 2021
 
+- RoboCup Japan Open 2021
 - RoboCup Japan Open 2020
 - RoboCup Japan Open 2019
 - RoboCup Japan Open 2018
 
+- Mexican Tournament of Robotics 2022 [atHome League Organiser]
 - Mexican Tournament of Robotics 2021 [atHome League Organiser]
 - Mexican Tournament of Robotics 2018
 - Mexican Tournament of Robotics 2013
