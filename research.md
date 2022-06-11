@@ -15,6 +15,8 @@ title: Research
 
 ### Conference
 
+- Multiview Object and View Sequence Recognition using Hidden Markov Models (2022). IEEE International Conference on Automation Science and Engineering (CASE)
+
 - sDSPL - Towards a benchmark for general-purpose task evaluation in domestic service robots (2021). The 39-th Annual Conference of the Robotics Society of Japan
 
 - 公平性と民主性を両立させた RoboCup 用競技シミュレーションシステムの開発 (2021). The 39-th Annual Conference of the Robotics Society of Japan
