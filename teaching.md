@@ -16,6 +16,10 @@ title: Teaching
 
 ## Invited Lectures
 
+- "Tecnología e Inovación - México y Japón", The Mexican Association of Alumni of the Government of Japan, May 2022
+
+- "Robots de Servicio en Japón", Academic Division of Engineering, Mexico Autonomous Institute of Technology (ITAM), Mexico, April 2022
+
 - "Robotics in Japan: A Review", University Program of Studies on Asia and Africa, UNAM, Mexico, May 2021
 
 - "Representaciones compactas de mapas y su aplicación en relocalización visual", Superior School of Computer Sciences, National Polytechnic Institute, Mexico, December 2020
