@@ -9,6 +9,8 @@ title: Research
 
 - Personal and Domestic Robotics (2022). Encyclopedia of Robotics. Springer, Berlin, Heidelberg.
 
+- A SLAM system based on Hidden Markov Models (2022). Informatics and Automation, 21(1), 181-212.
+
 - Semantic reasoning in service robots using expert systems (2019). Robotics and Autonomous Systems. Vol. 114, pp. 77-92
 
 - A motion planning system for a domestic service robot (2018). SPIIRAS Proceedings. Issue 60. pp. 5-38.
