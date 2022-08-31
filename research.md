@@ -7,7 +7,9 @@ title: Research
 
 ### Journal
 
-- Personal and Domestic Robotics (2022). Encyclopedia of Robotics. Springer, Berlin, Heidelberg.
+- Towards general purpose service robots: World Robot Summit – Partner Robot Challenge (2022). Advanced Robotics (online).
+
+- Sparse-Map: automatic topological map creation via unsupervised learning techniques (2022). Advanced Robotics (online).
 
 - A SLAM system based on Hidden Markov Models (2022). Informatics and Automation, 21(1), 181-212.
 
@@ -59,6 +61,8 @@ title: Research
 
 ### Books
 
+- Chapter: Personal and Domestic Robotics (2022). Encyclopedia of Robotics. Springer, Berlin, Heidelberg.
+
 - Map compression techniques for relocalisation in visual mapping (2017) - Department of Computer Science - University of Bristol. PhD Thesis
 
 - Object detection and recognition for mobile robot applications using computer vision techniques (2011) - Faculty of Engineering - National Autonomous University of Mexico. M.Eng Thesis
@@ -67,6 +71,7 @@ title: Research
 
 ### Robot Competitions
 
+- RoboCup 2022 Bangkok
 - RoboCup 2021 Worldwide [atHome League Organiser]
 - RoboCup 2019 Sydney
 - RoboCup 2018 Montreal
