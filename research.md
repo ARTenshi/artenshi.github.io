@@ -19,6 +19,10 @@ title: Research
 
 ### Conference
 
+- A survey on general-purpose tasks for domestic service robots (2022). The 40-th Annual Conference of the Robotics Society of Japan
+
+- インスタンスセグメンテーション画像を用いた\\ヒストグラム均等化手法による物体認識 (2022). The 40-th Annual Conference of the Robotics Society of Japan
+
 - Multiview Object and View Sequence Recognition using Hidden Markov Models (2022). IEEE International Conference on Automation Science and Engineering (CASE)
 
 - sDSPL - Towards a benchmark for general-purpose task evaluation in domestic service robots (2021). The 39-th Annual Conference of the Robotics Society of Japan
