@@ -7,6 +7,8 @@ title: Research
 
 ### Journal
 
+- A Continuous Integration Based Simulation Environment for Home Support Robot and its Application to RoboCup Competition (2023). IEEE/SICE International Symposium on System Integrations (SII)
+- 
 - Towards general purpose service robots: World Robot Summit – Partner Robot Challenge (2022). Advanced Robotics (online).
 
 - Sparse-Map: automatic topological map creation via unsupervised learning techniques (2022). Advanced Robotics (online).
