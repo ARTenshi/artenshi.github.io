@@ -105,17 +105,62 @@ title: Research
 
 - Field Robot Event 2017
 
-## Awards
+## Latest Awards
 
-**RoboCup 2022** 
+**RoboCup 2022 (Bangkok)** 
   -  @Home Domestic Standard Platform (DSPL)
-     -  4to Lugar 
+     -  4th Place 
      -  Smoothest, Safest Navigation Award 
 
    - @Home Education: 
-     - 2do Lugar 
+     -  2nd Place 
 
+**RoboCup 2021 (Worldwide Online)** 
+  -  @Home Education (OPL)
+     -  1st Place
+     -  Best Education Award
 
+**RoboCup Asia-Pacific 2021**
+  -  The Robotics Society of Japan Award
+
+  -  Flying Robot Challenge
+     -  1st Place
+
+  -  @Home Domestic Standard Platform (DSPL)
+     -  2nd Place
+     -  Technical Challenge: 2nd Place
+     -  Tidy Up Challenge: 2nd Place
+
+  -  @Home Simulation Domestic Standard Platform (DSPL)
+     -  3rd Place
+
+  -  @Home Education (On-site)
+     -  2nd Place
+     -  Technical Challenge: 3rd Place
+
+**RoboCup Japan Open 2022** 
+  -  @Home Domestic Standard Platform (DSPL)
+     -  2nd Place
+     -  Technical Challenge: 3rd Place
+
+  -  @Home Education
+     -  3rd Place
+     -  Technical Challenge: 3rd Place
+
+**RoboCup Japan Open 2021**
+  -  Flying Robot Challenge
+     -  2nd Place
+
+  -  @Home Domestic Standard Platform (DSPL)
+     -  2nd Place
+
+**RoboCup Japan Open 2020** 
+  -  @Home Domestic Standard Platform (DSPL)
+     -  3rd Place
+
+  -  @Home Education
+     -  1st Place
+     -  Best Technical Description Paper Award
 
 ## Videos
 
