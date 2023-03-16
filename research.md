@@ -133,7 +133,7 @@ title: Research
      -  2nd Place
      -  Technical Challenge: 2nd Place
      -  Tidy Up Challenge: 2nd Place
-  -  @Home Simulation Domestic Standard Platform (DSPL)
+  -  @Home simulation Domestic Standard Platform (sDSPL)
      -  3rd Place
   -  @Home Education (On-site)
      -  2nd Place
