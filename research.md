@@ -105,6 +105,18 @@ title: Research
 
 - Field Robot Event 2017
 
+## Awards
+
+**RoboCup 2022** 
+  -  @Home Domestic Standard Platform (DSPL)
+     -  4to Lugar 
+     -  Smoothest, Safest Navigation Award 
+
+   - @Home Education: 
+     - 2do Lugar 
+
+
+
 ## Videos
 
 ### RoboCup atHome Full Competitions (as Organiser)
