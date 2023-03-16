@@ -111,7 +111,6 @@ title: Research
   -  @Home Domestic Standard Platform (DSPL)
      -  4th Place
      -  Smoothest, Safest Navigation Award
-
   -  @Home Education
      -  2nd Place
 
