@@ -77,33 +77,39 @@ title: Research
 
 ### Robot Competitions
 
-- RoboCup 2022 Bangkok
-- RoboCup 2021 Worldwide [atHome League Organiser]
-- RoboCup 2019 Sydney
-- RoboCup 2018 Montreal
-- RoboCup 2013 Eindhoven
-- RoboCup 2012 Mexico City
-- RoboCup 2011 Istanbul
+**RoboCup**
+  - RoboCup 2022 Bangkok
+  - RoboCup 2021 Worldwide [atHome League Organiser]
+  - RoboCup 2019 Sydney
+  - RoboCup 2018 Montreal
+  - RoboCup 2013 Eindhoven
+  - RoboCup 2012 Mexico City
+  - RoboCup 2011 Istanbul
 
-- RoboCup Asia-Pacific 2021
+**RoboCup Asia-Pacific**
+  - RoboCup Asia-Pacific 2021
 
-- RoboCup Japan Open 2022
-- RoboCup Japan Open 2021
-- RoboCup Japan Open 2020
-- RoboCup Japan Open 2019
-- RoboCup Japan Open 2018
+**RoboCup Japan Open**
+  - RoboCup Japan Open 2022
+  - RoboCup Japan Open 2021
+  - RoboCup Japan Open 2020
+  - RoboCup Japan Open 2019
+  - RoboCup Japan Open 2018
 
-- Mexican Tournament of Robotics 2022 [atHome League Organiser]
-- Mexican Tournament of Robotics 2021 [atHome League Organiser]
-- Mexican Tournament of Robotics 2018
-- Mexican Tournament of Robotics 2013
-- Mexican Tournament of Robotics 2012
-- Mexican Tournament of Robotics 2011
+**Mexican Tournament of Robotics**
+  - Mexican Tournament of Robotics 2022 [atHome League Organiser]
+  - Mexican Tournament of Robotics 2021 [atHome League Organiser]
+  - Mexican Tournament of Robotics 2018
+  - Mexican Tournament of Robotics 2013
+  - Mexican Tournament of Robotics 2012
+  - Mexican Tournament of Robotics 2011
 
-- World Robot Summit 2020
-- World Robot Summit 2018
+**World Robot Summit**
+  - World Robot Summit 2020
+  - World Robot Summit 2018
 
-- Field Robot Event 2017
+**Field Robot Event**
+  - Field Robot Event 2017
 
 ## Latest Awards
 
@@ -121,18 +127,14 @@ title: Research
 
 **RoboCup Asia-Pacific 2021**
   -  The Robotics Society of Japan Award
-
   -  Flying Robot Challenge
      -  1st Place
-
   -  @Home Domestic Standard Platform (DSPL)
      -  2nd Place
      -  Technical Challenge: 2nd Place
      -  Tidy Up Challenge: 2nd Place
-
   -  @Home Simulation Domestic Standard Platform (DSPL)
      -  3rd Place
-
   -  @Home Education (On-site)
      -  2nd Place
      -  Technical Challenge: 3rd Place
@@ -141,7 +143,6 @@ title: Research
   -  @Home Domestic Standard Platform (DSPL)
      -  2nd Place
      -  Technical Challenge: 3rd Place
-
   -  @Home Education
      -  3rd Place
      -  Technical Challenge: 3rd Place
@@ -149,14 +150,12 @@ title: Research
 **RoboCup Japan Open 2021**
   -  Flying Robot Challenge
      -  2nd Place
-
   -  @Home Domestic Standard Platform (DSPL)
      -  2nd Place
 
 **RoboCup Japan Open 2020**
   -  @Home Domestic Standard Platform (DSPL)
      -  3rd Place
-
   -  @Home Education
      -  1st Place
      -  Best Technical Description Paper Award
