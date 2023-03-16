@@ -107,15 +107,15 @@ title: Research
 
 ## Latest Awards
 
-**RoboCup 2022 (Bangkok)** 
+**RoboCup 2022 (Bangkok)**
   -  @Home Domestic Standard Platform (DSPL)
-     -  4th Place 
-     -  Smoothest, Safest Navigation Award 
+     -  4th Place
+     -  Smoothest, Safest Navigation Award
 
-   - @Home Education: 
-     -  2nd Place 
+  -  @Home Education
+     -  2nd Place
 
-**RoboCup 2021 (Worldwide Online)** 
+**RoboCup 2021 (Worldwide Online)**
   -  @Home Education (OPL)
      -  1st Place
      -  Best Education Award
@@ -138,7 +138,7 @@ title: Research
      -  2nd Place
      -  Technical Challenge: 3rd Place
 
-**RoboCup Japan Open 2022** 
+**RoboCup Japan Open 2022**
   -  @Home Domestic Standard Platform (DSPL)
      -  2nd Place
      -  Technical Challenge: 3rd Place
@@ -154,7 +154,7 @@ title: Research
   -  @Home Domestic Standard Platform (DSPL)
      -  2nd Place
 
-**RoboCup Japan Open 2020** 
+**RoboCup Japan Open 2020**
   -  @Home Domestic Standard Platform (DSPL)
      -  3rd Place
 
