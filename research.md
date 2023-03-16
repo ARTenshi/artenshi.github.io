@@ -87,6 +87,7 @@ title: Research
 
 - RoboCup Asia-Pacific 2021
 
+- RoboCup Japan Open 2022
 - RoboCup Japan Open 2021
 - RoboCup Japan Open 2020
 - RoboCup Japan Open 2019
