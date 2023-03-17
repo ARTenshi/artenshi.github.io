@@ -86,8 +86,15 @@ title: Research
   - RoboCup 2012 Mexico City
   - RoboCup 2011 Istanbul
 
+**World Robot Summit**
+  - World Robot Summit 2020
+  - World Robot Summit 2018
+
 **RoboCup Asia-Pacific**
   - RoboCup Asia-Pacific 2021
+
+**Field Robot Event**
+  - Field Robot Event 2017
 
 **RoboCup Japan Open**
   - RoboCup Japan Open 2022
@@ -103,13 +110,6 @@ title: Research
   - Mexican Tournament of Robotics 2013
   - Mexican Tournament of Robotics 2012
   - Mexican Tournament of Robotics 2011
-
-**World Robot Summit**
-  - World Robot Summit 2020
-  - World Robot Summit 2018
-
-**Field Robot Event**
-  - Field Robot Event 2017
 
 ## Latest Awards
 
