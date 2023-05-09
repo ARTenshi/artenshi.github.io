@@ -97,6 +97,7 @@ title: Research
   - Field Robot Event 2017
 
 **RoboCup Japan Open**
+  - RoboCup Japan Open 2023
   - RoboCup Japan Open 2022
   - RoboCup Japan Open 2021
   - RoboCup Japan Open 2020
@@ -112,6 +113,14 @@ title: Research
   - Mexican Tournament of Robotics 2011
 
 ## Latest Awards
+
+**RoboCup Japan Open 2023**
+  -  @Home Domestic Standard Platform (DSPL)
+     -  2nd Place
+     -  Technical Challenge: 3rd Place
+  -  @Home Education
+     -  4th Place
+     -  Technical Challenge: 4th Place
 
 **RoboCup 2022 (Bangkok)**
   -  @Home Domestic Standard Platform (DSPL)
@@ -161,6 +170,12 @@ title: Research
      -  Best Technical Description Paper Award
 
 ## Videos
+
+### Research
+
+- [Towards general-purpose service robots](https://bit.ly/3NUcWXN)
+
+- [Natural Language Understanding for Service Robots](https://bit.ly/3nAa9sh)
 
 ### RoboCup atHome Full Competitions (as Organiser)
 
