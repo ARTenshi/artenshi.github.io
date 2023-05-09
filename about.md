@@ -11,4 +11,4 @@ I received my Ph.D. in Computer Science at the Visual Information Laboratory, in
 
 Currently, I am an Adjunct Researcher Fellow at the Advance Intelligence and Robotics Research Center, Tamagawa University, Japan. Now and then I collaborate with the Bio-Robotics Laboratory, National Autonomous University of Mexico, and the Graduate Program in Agricultural Engineering and Integral Use of Water, Autonomous University of Chapingo. 
 
-I have been working on mobile and service robots and have tested our latest results at the RoboCup and similar robot competitions for the past twelve years.
+I have been working on mobile and service robots and I have presented our research output in national and international journals and conferences and I have been tested our latest results at the World Robot Summit, RoboCup, and similar robot competitions for the past fourteen years.
