@@ -7,9 +7,9 @@ title: Research
 
 ### Journal
  
-- Towards general purpose service robots: World Robot Summit – Partner Robot Challenge (2022). Advanced Robotics (online).
+- Towards general purpose service robots: World Robot Summit – Partner Robot Challenge (2022). Advanced Robotics, 36:17-18, 812-824
 
-- Sparse-Map: automatic topological map creation via unsupervised learning techniques (2022). Advanced Robotics (online).
+- Sparse-Map: automatic topological map creation via unsupervised learning techniques (2022). Advanced Robotics, 36:17-18, 825-835
 
 - A SLAM system based on Hidden Markov Models (2022). Informatics and Automation, 21(1), 181-212.
 
