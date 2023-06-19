@@ -129,6 +129,13 @@ title: Research
   -  @Home Education
      -  2nd Place
 
+**RoboCup Japan Open 2022**
+  -  @Home Domestic Standard Platform (DSPL)
+     -  2nd Place
+     -  Technical Challenge: 3rd Place
+  -  @Home Education
+     -  3rd Place
+     
 **RoboCup 2021 (Worldwide Online)**
   -  @Home Education (OPL)
      -  1st Place
