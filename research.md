@@ -122,19 +122,20 @@ title: Research
      -  4th Place
      -  Technical Challenge: 4th Place
 
-**RoboCup 2022 (Bangkok)**
-  -  @Home Domestic Standard Platform (DSPL)
-     -  4th Place
-     -  Smoothest, Safest Navigation Award
-  -  @Home Education
-     -  2nd Place
-
 **RoboCup Japan Open 2022**
   -  @Home Domestic Standard Platform (DSPL)
      -  2nd Place
      -  Technical Challenge: 3rd Place
   -  @Home Education
      -  3rd Place
+     -  Technical Challenge: 3rd Place
+
+**RoboCup 2022 (Bangkok)**
+  -  @Home Domestic Standard Platform (DSPL)
+     -  4th Place
+     -  Smoothest, Safest Navigation Award
+  -  @Home Education
+     -  2nd Place
      
 **RoboCup 2021 (Worldwide Online)**
   -  @Home Education (OPL)
@@ -153,14 +154,6 @@ title: Research
      -  3rd Place
   -  @Home Education (On-site)
      -  2nd Place
-     -  Technical Challenge: 3rd Place
-
-**RoboCup Japan Open 2022**
-  -  @Home Domestic Standard Platform (DSPL)
-     -  2nd Place
-     -  Technical Challenge: 3rd Place
-  -  @Home Education
-     -  3rd Place
      -  Technical Challenge: 3rd Place
 
 **RoboCup Japan Open 2021**
