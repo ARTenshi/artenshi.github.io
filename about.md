@@ -9,7 +9,7 @@ I studied the Bachelor's and Master's programmes in Electrical Engineering (rese
 
 I received my Ph.D. in Computer Science at the Visual Information Laboratory, in the Department of Computer Vision, University of Bristol, UK, working on problems related to computer vision and robotics; I defended my thesis "Map compression techniques for relocalisation in visual mapping" where I explored different task-specific and compact map representations in the context of visual odometry and SLAM.
 
-Currently, I am an Adjunct Researcher Fellow at the Advance Intelligence and Robotics Research Center, Tamagawa University, Japan. Now and then I collaborate with the Bio-Robotics Laboratory, National Autonomous University of Mexico, and the Graduate Program in Agricultural Engineering and Integral Use of Water, Autonomous University of Chapingo. 
+Former member at the Advance Intelligence and Robotics Research Center, Tamagawa University, Japan and currently Adjunct Researcher Fellow at the Tokyo Information Design Professional University. Now and then I collaborate with the Bio-Robotics Laboratory, National Autonomous University of Mexico, and the Graduate Program in Agricultural Engineering and Integral Use of Water, Autonomous University of Chapingo. 
 
 I have been working on mobile and service robots and I have presented our research output in national and international journals and conferences and I have been tested our latest results at the World Robot Summit, RoboCup, and similar robot competitions for the past fourteen years.
 
