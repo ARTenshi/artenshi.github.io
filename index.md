@@ -10,7 +10,7 @@ layout: home
 
 <div align="center"> 
     <img src="{{ '/images/unam.png' | absolute_url }}" alt="Bio-Robotics Laboratory" style="width:18%;" >
-    <img src="{{ '/images/tamagawa.png' | absolute_url }}" alt="AIBot Research Center" style="width:72%;" >
+    <img src="{{ '/images/tid.png' | absolute_url }}" alt="TID Professional University" style="width:72%;" >
 </div>
 
 # Welcome 
