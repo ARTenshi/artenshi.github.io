@@ -6,7 +6,7 @@ title: Research
 ## Publications
 
 ### Journal
- 
+
 - Towards general purpose service robots: World Robot Summit – Partner Robot Challenge (2022). Advanced Robotics, 36:17-18, 812-824
 
 - Sparse-Map: automatic topological map creation via unsupervised learning techniques (2022). Advanced Robotics, 36:17-18, 825-835
@@ -18,6 +18,12 @@ title: Research
 - A motion planning system for a domestic service robot (2018). SPIIRAS Proceedings. Issue 60. pp. 5-38.
 
 ### Conference
+
+- Keep it simple: Understanding natural language commands for general-purpose service robots (2024). IEEE/SICE International Symposium on System Integrations (SII)
+
+- Fail It till You Make It: Error Expectation in Complex-Plan Execution for Service Robots (2023). Interactive Collaborative Robotics (ICR)
+
+- イサービスロボットにおける非熟練ユーザのための直感的なインタラクションインタフェース (2023). The 41-st Annual Conference of the Robotics Society of Japan
 
 - A Continuous Integration Based Simulation Environment for Home Support Robot and its Application to RoboCup Competition (2023). IEEE/SICE International Symposium on System Integrations (SII)
 
@@ -78,6 +84,8 @@ title: Research
 ### Robot Competitions
 
 **RoboCup**
+  - RoboCup 2024 Eindhoven
+  - RoboCup 2023 Bordeaux
   - RoboCup 2022 Bangkok
   - RoboCup 2021 Worldwide [atHome League Organiser]
   - RoboCup 2019 Sydney
@@ -85,6 +93,9 @@ title: Research
   - RoboCup 2013 Eindhoven
   - RoboCup 2012 Mexico City
   - RoboCup 2011 Istanbul
+
+**The Intelligent Home Robotics Workshop**
+  -  3rd Intelligent Home Robotics Challenge 2024
 
 **World Robot Summit**
   - World Robot Summit 2020
@@ -97,6 +108,8 @@ title: Research
   - Field Robot Event 2017
 
 **RoboCup Japan Open**
+  - RoboCup Japan Open 2025
+  - RoboCup Japan Open 2024
   - RoboCup Japan Open 2023
   - RoboCup Japan Open 2022
   - RoboCup Japan Open 2021
@@ -113,6 +126,14 @@ title: Research
   - Mexican Tournament of Robotics 2011
 
 ## Latest Awards
+
+**RoboCup Japan Open 2025**
+  -  @Home Domestic Standard Platform (DSPL)
+     -  1st Place
+
+**The 12th Intelligent Home Robotics Workshop**
+  -  3rd Intelligent Home Robotics Challenge 2024
+     -  1st Place
 
 **RoboCup Japan Open 2023**
   -  @Home Domestic Standard Platform (DSPL)
@@ -172,6 +193,10 @@ title: Research
 ## Videos
 
 ### Research
+
+- [Fail it till you make it: error expectation in complex-plan execution for service robots](https://bit.ly/45anoTy)
+
+- [Una introducción a los robots de servicio de propósito general](https://bit.ly/4mdf9MV)
 
 - [Towards general-purpose service robots](https://bit.ly/3NUcWXN)
 
