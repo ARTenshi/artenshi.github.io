@@ -5,6 +5,10 @@ title: Media
 
 ## Press
 
+- [本学 岡田研究室の「TIDbots」がロボカップジャパンオープン2025で優勝！](https://bit.ly/3S7GgLw) [2025] - TID Professional University
+
+- [「第3回インテリジェントホームロボティクスチャレンジ」で岡田研究室のTIDbotsが優勝しました！](https://bit.ly/3GVCD8R) [2024] - TID Professional University
+
 - [【速報】「ロボカップアジアパシフィック2021あいち」にて、玉川大学チーム「eR@sers」が部門優勝や上位入賞を多数獲得！](https://bit.ly/3IbvzQU) [2021] - 玉川大学
 
 - [ロボカップ世界大会で玉川大学チームが部門優勝！](https://bit.ly/3yPmPLB) [2021] - 玉川大学
@@ -45,6 +49,10 @@ title: Media
 
 
 ## Video
+
+- [Robot-waiter navigation contest](https://bit.ly/430NzuA) [Video, 2024] - TID Professional University
+
+- [土佐兄弟の大学ドコイク](https://bit.ly/42Z9en2) [Video, 2024] - TID Professional University
 
 - [玉川大学　研究所AIBot](https://bit.ly/3pVeIcq) [Video, 2021] - 玉川大学
 
