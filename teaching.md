@@ -20,9 +20,17 @@ title: Teaching
 
 ## Invited Lectures
 
+- "Robotics in Japan: A Review", University Program of Studies on Asia and Africa, UNAM, Mexico, June 2025
+
+- "Towards General Purpose Service Robots", International Congress on Technological Innovations and Robotics Research Projects, Mexico, September 2023
+
+- "Geometry of Robot Motion", 9th Robotics Winter School, Mexican Federation of Robotics, Mexico, January 2023
+
 - "Tecnología e Inovación - México y Japón", The Mexican Association of Alumni of the Government of Japan, May 2022
 
 - "Robots de Servicio en Japón", Academic Division of Engineering, Mexico Autonomous Institute of Technology (ITAM), Mexico, April 2022
+
+- "An introduction to sDSPL – simulation Domestic Standard Platform League", 8th Robotics Winter School, Mexican Federation of Robotics, Mexico, January 2022
 
 - "Robotics in Japan: A Review", University Program of Studies on Asia and Africa, UNAM, Mexico, May 2021
 
@@ -46,6 +54,10 @@ title: Teaching
 
 
 ## Additional Experience
+
+- Executive Committee, RoboCup@Home League, 2025 – 2026
+
+- Technical Committee/Organiser, RoboCup@Home League, 2021 – 2024
 
 - Jury at [Open Platform Final](https://bit.ly/36MJMDQ) [Video] -  RoboCup@Home Education Online Challenge 2020
 
