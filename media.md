@@ -5,6 +5,14 @@ title: Media
 
 ## Press
 
+- [世界最大規模のロボット競技大会「RoboCup 2026 INCHEON」に出場しました](https://www.tid.ac.jp/contents/news/3327/) [2026] - TID Professional University
+
+- [【京都橘大学】ロボカップ世界大会に出場決定](https://prtimes.jp/main/html/rd/p/000000073.000097139.html) [2026] - 京都橘大学 (PR TIMES)
+
+- [【世界大会へ】岡田研究室が「RoboCup 2026 INCHEON」世界大会に日本代表として出場！](https://www.tid.ac.jp/contents/news/3054/) [2026] - TID Professional University
+
+- [本学 岡田研究室「TIDbots+KTU」がロボカップジャパンオープン2026で優勝！世界大会へ](https://www.tid.ac.jp/contents/news/3087/) [2026] - TID Professional University
+
 - [本学 岡田研究室の「TIDbots」がロボカップジャパンオープン2025で優勝！](https://bit.ly/3S7GgLw) [2025] - TID Professional University
 
 - [「第3回インテリジェントホームロボティクスチャレンジ」で岡田研究室のTIDbotsが優勝しました！](https://bit.ly/3GVCD8R) [2024] - TID Professional University
@@ -49,6 +57,8 @@ title: Media
 
 
 ## Video
+
+- [【祝・連覇】ロボカップジャパンオープン2026制覇！舞台裏をTID生が語る](https://www.youtube.com/watch?v=Wjufzp00cSg) [Video, 2026] - TID Professional University
 
 - [Robot-waiter navigation contest](https://bit.ly/430NzuA) [Video, 2024] - TID Professional University
 
