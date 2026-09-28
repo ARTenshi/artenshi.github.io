@@ -7,6 +7,10 @@ title: Research
 
 ### Journal
 
+- Complex Task Planning for General-Purpose Service Robots (2025). Journal of Robotics and Mechatronics, 37(3), 594-603
+
+- Multi-View Object Recognition and Pose Sequence Estimation Using HMMs (2025). Journal of Robotics and Mechatronics, 37(3), 579-593
+
 - Towards general purpose service robots: World Robot Summit – Partner Robot Challenge (2022). Advanced Robotics, 36:17-18, 812-824
 
 - Sparse-Map: automatic topological map creation via unsupervised learning techniques (2022). Advanced Robotics, 36:17-18, 825-835
@@ -18,6 +22,12 @@ title: Research
 - A motion planning system for a domestic service robot (2018). SPIIRAS Proceedings. Issue 60. pp. 5-38.
 
 ### Conference
+
+- Online Trajectory Prediction for Indoor Robots via Adaptive Echo State Networks (2026). The 44-th Annual Conference of the Robotics Society of Japan
+
+- clip2mesh: 単一RGB動画からのテクスチャ付き3次元メッシュ再構成パイプライン (2026). The 44-th Annual Conference of the Robotics Society of Japan
+
+- Expert systems for complex task planning in service robots (2025). The 43-rd Annual Conference of the Robotics Society of Japan
 
 - Keep it simple: Understanding natural language commands for general-purpose service robots (2024). IEEE/SICE International Symposium on System Integrations (SII)
 
@@ -84,6 +94,8 @@ title: Research
 ### Robot Competitions
 
 **RoboCup**
+  - RoboCup 2026 Incheon
+  - RoboCup 2025 Salvador
   - RoboCup 2024 Eindhoven
   - RoboCup 2023 Bordeaux
   - RoboCup 2022 Bangkok
@@ -95,6 +107,7 @@ title: Research
   - RoboCup 2011 Istanbul
 
 **The Intelligent Home Robotics Workshop**
+  -  4th Intelligent Home Robotics Challenge 2025
   -  3rd Intelligent Home Robotics Challenge 2024
 
 **World Robot Summit**
@@ -108,6 +121,7 @@ title: Research
   - Field Robot Event 2017
 
 **RoboCup Japan Open**
+  - RoboCup Japan Open 2026
   - RoboCup Japan Open 2025
   - RoboCup Japan Open 2024
   - RoboCup Japan Open 2023
@@ -127,6 +141,14 @@ title: Research
 
 ## Latest Awards
 
+**RoboCup Japan Open 2026**
+  -  @Home Domestic Standard Platform (DSPL)
+     -  1st Place
+
+**The 13th Intelligent Home Robotics Workshop**
+  -  4th Intelligent Home Robotics Challenge 2025
+     -  2nd Place
+
 **RoboCup Japan Open 2025**
   -  @Home Domestic Standard Platform (DSPL)
      -  1st Place
@@ -134,6 +156,10 @@ title: Research
 **The 12th Intelligent Home Robotics Workshop**
   -  3rd Intelligent Home Robotics Challenge 2024
      -  1st Place
+
+**RoboCup 2023 (Bordeaux)**
+  -  @Home Domestic Standard Platform (DSPL)
+     -  Smoothest, Safest Navigation Award
 
 **RoboCup Japan Open 2023**
   -  @Home Domestic Standard Platform (DSPL)
