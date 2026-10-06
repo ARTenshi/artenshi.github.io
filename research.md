@@ -7,6 +7,10 @@ title: Research
 
 ### Journal
 
+- Classical Autonomous Navigation for a Biped Robot Using ROS2 (2026). Computación y Sistemas, 30(3), 1417-1425
+
+- Comparison of Detection Models for Unconstrained Objects for Humanoid Robots (2026). Computación y Sistemas, 30(3), 1427-1433
+
 - Complex Task Planning for General-Purpose Service Robots (2025). Journal of Robotics and Mechatronics, 37(3), 594-603
 
 - Multi-View Object Recognition and Pose Sequence Estimation Using HMMs (2025). Journal of Robotics and Mechatronics, 37(3), 579-593
