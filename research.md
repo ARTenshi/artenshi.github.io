@@ -43,12 +43,6 @@ title: Research
 
 - Map Representation Using Hidden Markov Models For Mobile Robot Localization (2018). 13th International Scientific-Technical Conference on Electromechanics and Robotics
 
-- Intelligent flat-and-textureless object manipulation in Service Robots (2018). Workshop "Towards Robots that Exhibit Manipulation Intelligence", IEEE/RSJ IROS2018
-
-- Multimodal feedback for active robot-object interaction (2018). Workshop "Towards Robots that Exhibit Manipulation Intelligence", IEEE/RSJ IROS2018
-
-- Towards CNN Map Representation and Compression for camera relocalisation (2018). 1st International Workshop on Deep Learning for Visual SLAM, CVPR 2018
-
 - O-POCO: Online POint cloud COmpression mapping for visual odometry and SLAM (2017). IEEE International Conference on Robotics and Automation
 
 - Construction of Roadmaps Maps for Mobile Robots' Navigation Using RGB-D Cameras (2016). Intelligent Autonomous Systems 13
@@ -58,6 +52,14 @@ title: Research
 - Object Detection via Receptive Field Co-occurrence and Spatial Point Cloud Data (2013). IEEE International Conference on Advanced Robotics (ICAR)
 
 - Development of an object recognition and location system using Microsoft Kinect(TM) sensor (2011). Proceedings of the 15th RoboCup International Symposium, Istanbul
+
+### International workshop
+
+- Intelligent flat-and-textureless object manipulation in Service Robots (2018). Workshop "Towards Robots that Exhibit Manipulation Intelligence", IEEE/RSJ IROS2018
+
+- Multimodal feedback for active robot-object interaction (2018). Workshop "Towards Robots that Exhibit Manipulation Intelligence", IEEE/RSJ IROS2018
+
+- Towards CNN Map Representation and Compression for camera relocalisation (2018). 1st International Workshop on Deep Learning for Visual SLAM, CVPR 2018
 
 ### National conference
 
@@ -90,6 +92,8 @@ title: Research
 ### Books
 
 - Chapter: Personal and Domestic Robotics (2022). Encyclopedia of Robotics. Springer, Berlin, Heidelberg.
+
+### Thesis
 
 - Map compression techniques for relocalisation in visual mapping (2017) - Department of Computer Science - University of Bristol. PhD Thesis
 
