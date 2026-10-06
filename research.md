@@ -25,45 +25,21 @@ title: Research
 
 - A motion planning system for a domestic service robot (2018). SPIIRAS Proceedings. Issue 60. pp. 5-38.
 
-### Conference
-
-- Online Trajectory Prediction for Indoor Robots via Adaptive Echo State Networks (2026). The 44-th Annual Conference of the Robotics Society of Japan
-
-- clip2mesh: 単一RGB動画からのテクスチャ付き3次元メッシュ再構成パイプライン (2026). The 44-th Annual Conference of the Robotics Society of Japan
-
-- Expert systems for complex task planning in service robots (2025). The 43-rd Annual Conference of the Robotics Society of Japan
+### International conference
 
 - Keep it simple: Understanding natural language commands for general-purpose service robots (2024). IEEE/SICE International Symposium on System Integrations (SII)
 
 - Fail It till You Make It: Error Expectation in Complex-Plan Execution for Service Robots (2023). Interactive Collaborative Robotics (ICR)
 
-- イサービスロボットにおける非熟練ユーザのための直感的なインタラクションインタフェース (2023). The 41-st Annual Conference of the Robotics Society of Japan
-
 - A Continuous Integration Based Simulation Environment for Home Support Robot and its Application to RoboCup Competition (2023). IEEE/SICE International Symposium on System Integrations (SII)
 
-- A survey on general-purpose tasks for domestic service robots (2022). The 40-th Annual Conference of the Robotics Society of Japan
-
-- インスタンスセグメンテーション画像を用いた\\ヒストグラム均等化手法による物体認識 (2022). The 40-th Annual Conference of the Robotics Society of Japan
-
 - Multiview Object and View Sequence Recognition using Hidden Markov Models (2022). IEEE International Conference on Automation Science and Engineering (CASE)
-
-- sDSPL - Towards a benchmark for general-purpose task evaluation in domestic service robots (2021). The 39-th Annual Conference of the Robotics Society of Japan
-
-- 公平性と民主性を両立させた RoboCup 用競技シミュレーションシステムの開発 (2021). The 39-th Annual Conference of the Robotics Society of Japan
-
-- ホームサービスロボットによる物体認識のためのアクティブセンシング戦略 (2021). The 39-th Annual Conference of the Robotics Society of Japan
-
-- パーソナルモビリティを活用した人とロボットの協調 (2021). The 39-th Annual Conference of the Robotics Society of Japan
 
 - Learning tools for mobile robot localization using visual landmarks and the extended Kalman filter (2021). In Proceedings of the 24th RoboCup International Symposium
 
 - Generating Reactive Robots’ Behaviors Using Genetic Algorithms (2021). The International Conference on Agents and Artificial Intelligence
 
-- Multimodal human intention-driven robot motion control in collaborative tasks (2020). The 38-th Annual Conference of the Robotics Society of Japan
-
 - Feature detection using Hidden Markov Models for 3D-visual recognition (2019). The 19th IEEE International Conference on Autonomous Robot Systems and Competitions
-
-- Robot-object interaction strategies for object recognition (2019). The 37-th Annual Conference of the Robotics Society of Japan
 
 - Map Representation Using Hidden Markov Models For Mobile Robot Localization (2018). 13th International Scientific-Technical Conference on Electromechanics and Robotics
 
@@ -72,8 +48,6 @@ title: Research
 - Multimodal feedback for active robot-object interaction (2018). Workshop "Towards Robots that Exhibit Manipulation Intelligence", IEEE/RSJ IROS2018
 
 - Towards CNN Map Representation and Compression for camera relocalisation (2018). 1st International Workshop on Deep Learning for Visual SLAM, CVPR 2018
-
-- Visual feedback for active robot-object interaction (2018). The 36-th Annual Conference of the Robotics Society of Japan
 
 - O-POCO: Online POint cloud COmpression mapping for visual odometry and SLAM (2017). IEEE International Conference on Robotics and Automation
 
@@ -84,6 +58,34 @@ title: Research
 - Object Detection via Receptive Field Co-occurrence and Spatial Point Cloud Data (2013). IEEE International Conference on Advanced Robotics (ICAR)
 
 - Development of an object recognition and location system using Microsoft Kinect(TM) sensor (2011). Proceedings of the 15th RoboCup International Symposium, Istanbul
+
+### National conference
+
+- Online Trajectory Prediction for Indoor Robots via Adaptive Echo State Networks (2026). The 44-th Annual Conference of the Robotics Society of Japan
+
+- clip2mesh: 単一RGB動画からのテクスチャ付き3次元メッシュ再構成パイプライン (2026). The 44-th Annual Conference of the Robotics Society of Japan
+
+- Expert systems for complex task planning in service robots (2025). The 43-rd Annual Conference of the Robotics Society of Japan
+
+- イサービスロボットにおける非熟練ユーザのための直感的なインタラクションインタフェース (2023). The 41-st Annual Conference of the Robotics Society of Japan
+
+- A survey on general-purpose tasks for domestic service robots (2022). The 40-th Annual Conference of the Robotics Society of Japan
+
+- インスタンスセグメンテーション画像を用いた\\ヒストグラム均等化手法による物体認識 (2022). The 40-th Annual Conference of the Robotics Society of Japan
+
+- sDSPL - Towards a benchmark for general-purpose task evaluation in domestic service robots (2021). The 39-th Annual Conference of the Robotics Society of Japan
+
+- 公平性と民主性を両立させた RoboCup 用競技シミュレーションシステムの開発 (2021). The 39-th Annual Conference of the Robotics Society of Japan
+
+- ホームサービスロボットによる物体認識のためのアクティブセンシング戦略 (2021). The 39-th Annual Conference of the Robotics Society of Japan
+
+- パーソナルモビリティを活用した人とロボットの協調 (2021). The 39-th Annual Conference of the Robotics Society of Japan
+
+- Multimodal human intention-driven robot motion control in collaborative tasks (2020). The 38-th Annual Conference of the Robotics Society of Japan
+
+- Robot-object interaction strategies for object recognition (2019). The 37-th Annual Conference of the Robotics Society of Japan
+
+- Visual feedback for active robot-object interaction (2018). The 36-th Annual Conference of the Robotics Society of Japan
 
 ### Books
 
